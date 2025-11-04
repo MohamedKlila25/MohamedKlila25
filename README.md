@@ -74,10 +74,8 @@ Linux · MATLAB · React.js · Project Management · Operating Systems · Comput
 
 ### 🤝 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg](https://www.linkedin.com/in/mohamed-klila-66207132a/)" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/YOUR-KAGGLE" target="blank"><img align="center" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="kaggle](https://www.kaggle.com/mohamedklila8klila)" height="30" width="40" /></a>
-</p>
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/mohamed-klila-66207132a/) | ✉️ your.email@example.com
 
 ---
 
