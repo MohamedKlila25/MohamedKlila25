@@ -94,4 +94,4 @@ Linux · MATLAB · React.js · Project Management · Operating Systems · Comput
 
 ---
 
-✨ _Thanks for visiting my profile! Feel free to connect or collaborate on AI and ML projects._ 🚀
+ _Thanks for visiting my profile! Feel free to connect or collaborate on AI and ML projects._ 
