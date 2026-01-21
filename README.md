@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi there 👋, I'm Mohamed Klila</h1>
-<h3 align="center">🎓 AI & Machine Learning Enthusiast | ENSTA Paris Student</h3>
+<h1 align="center">Hi there , I'm Mohamed Klila</h1>
+<h3 align="center"> AI & Machine Learning Enthusiast | ENSTA Paris Student</h3>
 
 <p align="center">
 I'm an engineering student in my 2nd year at <b>ENSTA Paris</b>, majoring in Computer Science (Advanced Techniques).  
@@ -28,43 +28,43 @@ I’m passionate about <b>Artificial Intelligence</b>, <b>Machine Learning</b>, 
 
 ---
 
-### 🔭 What I'm Looking For
-- 🔍 A **research internship (2–3 months)** starting from **June 2026**, in **AI, Machine Learning, or Data Science**.  
-- 🚀 A **gap-year internship (césure)** starting from **October 2026**, focused on **AI, ML, or Data Science**.  
+###  What I'm Looking For
+-  A **research internship (2–3 months)** starting from **June 2026**, in **AI, Machine Learning, or Data Science**.  
+-  A **gap-year internship (césure)** starting from **October 2026**, focused on **AI, ML, or Data Science**.  
 I’m deeply motivated to contribute to innovative research and development projects in these fields.
 
 ---
 
-### 🧠 About Me
-- 🎯 Strong analytical mindset and teamwork spirit  
-- 💬 Good communication and time management skills  
-- 📚 Currently learning about **LLMs**, **AI model deployment**, and how to bring ML models **into production**
+###  About Me
+-  Strong analytical mindset and teamwork spirit  
+-  Good communication and time management skills  
+-  Currently learning about **LLMs**, **AI model deployment**, and how to bring ML models **into production**
 
 ---
 
-### 🧩 My Technical Skills
+###  My Technical Skills
 
-#### 💻 Programming Languages
+####  Programming Languages
 `Python` · `C` · `C++` · `SQL` · `LaTeX`
 
-#### 🧠 Python Libraries & Tools
+####  Python Libraries & Tools
 `scikit-learn` · `PyTorch` · `NumPy` · `pandas` · `matplotlib` · `seaborn` · `tkinter`
 
-#### 🧮 Mathematics & Theory
+####  Mathematics & Theory
 Linear Algebra · Statistics · Optimization · Gradient Descent · Information Theory
 
-#### ⚙️ Other Skills
+####  Other Skills
 Linux · MATLAB · React.js · Project Management · Operating Systems · Computer Networks
 
 ---
 
-### 🧑‍💼 Professional Experience
+###  Professional Experience
 - **Intern at Tunisie Telecom**  
   Worked on supervision systems, network configuration, and developed a graphical interface to automate code generation for network stations.
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 - AI & Machine Learning Fundamentals  
 - Deep Learning Architectures  
 - Large Language Models (LLMs)  
@@ -72,13 +72,13 @@ Linux · MATLAB · React.js · Project Management · Operating Systems · Comput
 
 ---
 
-### 🤝 Connect With Me
+###  Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-klila-66207132a/) | ✉️ mohamed.klila@ensta-paris.fr
 
 ---
 
-### ⚡ GitHub Stats
+###  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="mohamedklila" />
@@ -88,7 +88,7 @@ Linux · MATLAB · React.js · Project Management · Operating Systems · Comput
 
 ---
 
-### 💡 Quote
+###  Quote
 > “Innovation and curiosity drive everything I do.  
 > I believe that combining mathematics, programming, and creativity can change the world through AI.”
 
