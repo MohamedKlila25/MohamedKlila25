@@ -77,7 +77,7 @@ Linux · MATLAB · React.js · Project Management · Operating Systems · Comput
 [LinkedIn](https://www.linkedin.com/in/mohamed-klila-66207132a/) | ✉️ mohamed.klila@ensta-paris.fr
 
 ---
-
+<!--
 ###  GitHub Stats
 
 <p align="center">
@@ -85,7 +85,7 @@ Linux · MATLAB · React.js · Project Management · Operating Systems · Comput
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical" alt="top-langs" />
 </p>
-
+-->
 ---
 
 ###  Quote
