@@ -45,10 +45,10 @@ I’m deeply motivated to contribute to innovative research and development proj
 ###  My Technical Skills
 
 ####  Programming Languages
-`Python` · `C` · `C++` · `SQL` · `LaTeX`
+`Python` · `C` · `C++` · `SQL`
 
 ####  Python Libraries & Tools
-`scikit-learn` · `PyTorch` · `NumPy` · `pandas` · `matplotlib` · `seaborn` · `tkinter`
+`scikit-learn` · `PyTorch` ·`Hugging Face Transformers ` · `LoRA` · `NumPy` · `pandas` · `matplotlib` · `seaborn` · `tkinter`
 
 ####  Mathematics & Theory
 Linear Algebra · Statistics · Optimization · Gradient Descent · Information Theory
